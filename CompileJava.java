@@ -1,3 +1,7 @@
+// Sebaiknya file ini tidak dicek untuk pemula!
+// File ini jalankan untuk menjalankan semua file *.java
+// di repository ini, kecuali file ini sendiri!
+// Method-method yang digunakan disini belum dipelajari di PP2019!!!
 import java.io.*;
 
 class CompileJava {
